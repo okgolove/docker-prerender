@@ -1,4 +1,6 @@
 FROM node:10.15-alpine
+LABEL org.opencontainers.image.source https://github.com/okgolove/docker-prerender
+
 ENV CHROME_BIN=/usr/bin/chromium-browser
 ENV CHROME_PATH=/usr/lib/chromium/
 
