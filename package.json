@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "prerender": "5.5.1",
+    "prerender": "5.8.4",
     "prerender-request-blacklist": "1.0.2",
     "prerender-aws-s3-cache": "prerender/prerender-aws-s3-cache#master"
   }
