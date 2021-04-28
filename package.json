@@ -9,6 +9,6 @@
   "dependencies": {
     "prerender": "5.8.4",
     "prerender-request-blacklist": "1.0.2",
-    "prerender-aws-s3-cache": "prerender/prerender-aws-s3-cache#master"
+    "prerender-aws-s3-cache": "prerender/prerender-aws-s3-cache#98707fa0f787de83aa41583682cd2c2d330a9cca"
   }
 }
