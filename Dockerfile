@@ -1,4 +1,4 @@
-FROM node:14.19.0-alpine
+FROM node:14.19.1-alpine
 LABEL org.opencontainers.image.source=https://github.com/okgolove/docker-prerender
 
 ENV CHROME_BIN=/usr/bin/chromium-browser
